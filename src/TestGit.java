@@ -1,6 +1,7 @@
 public class TestGit {
     // Git的测试；
     public static void main(String[] args) {
-        System.out.println("测试Git。");
+        String text = "测试工具是否可以正常更新";
+        System.out.println(text);
     }
 }
